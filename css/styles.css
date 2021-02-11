@@ -10439,7 +10439,7 @@ header.masthead .masthead-heading {
     min-height: 170px;
   }
   .timeline > li .timeline-panel {
-    padding: 0 20px 20px 100px;
+    padding: 0 20px 20px 55px;
   }
   .timeline > li .timeline-image {
     width: 170px;
@@ -10450,7 +10450,7 @@ header.masthead .masthead-heading {
     margin-top: 40px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
-    padding: 0 100px 20px 20px;
+    padding: 0 55px 20px 20px;
   }
 }
 .team-member {
